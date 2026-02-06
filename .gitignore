@@ -1,0 +1,3 @@
+# Exclude standard intermediate and output directories
+bin/
+obj/
